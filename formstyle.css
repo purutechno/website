@@ -1,0 +1,17 @@
+header{
+	background-color: coral;
+	text-align: center;
+}
+h1{
+	font-family: algerian;
+	color: white;
+	font-size: 15;
+}
+.container{
+	border-style: dotted;
+	border-left: 5;
+	border-right: 5;
+	border-bottom: 5;
+	border-top-color: blue;
+	padding: 30;
+}
